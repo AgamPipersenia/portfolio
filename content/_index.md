@@ -1,7 +1,6 @@
----
-title: "Website"
-draft: false
----
++++
+title = "Website"
++++
 
 # 
 <p style="text-align: center;"><strong>Agam Pipersenia</strong><br>Junior Undergraduate at IIT Kanpur<br><br>Contact me @</p>
