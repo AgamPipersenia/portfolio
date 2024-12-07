@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Website on </title>
+    <link>https://agampipersenia.github.io/portfolio/</link>
+    <description>Recent content in Website on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://agampipersenia.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://agampipersenia.github.io/portfolio/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://agampipersenia.github.io/portfolio/about/</guid>
+      <description>I am currently a third-year undergraduate student in the Department of Aerospace Engineering at the Indian Institute of Technology Kanpur.</description>
+      <content>&lt;p&gt;I am currently a third-year undergraduate student in the Department of Aerospace Engineering at the Indian Institute of Technology Kanpur.&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Showcase</title>
+      <link>https://agampipersenia.github.io/portfolio/showcase/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://agampipersenia.github.io/portfolio/showcase/</guid>
+      <description>Competitions 1. NIBC Global Investment Banking Competition Conducting Comparable Company Analysis, Precedent Transaction Analysis, Discounted Cash Flow (DCF) Valuation, and Leveraged Buyout (LBO) Modeling for Bumble (BMBL) 2. Inter-IIT Tech Meet 12.0 | Trading Strategies Implemented trading strategies using technical indicators like RSI, RVI, MACD, WBS, Supertrend Developed backtesting frameworks from scratch on Python &amp;amp; using standard libraries such as BackTrader Implemented advanced exit strategies, including trailing stops, ATR-based stop losses, and take profit measures Achieved 18X buy and hold returns on a 4 year period, while limiting average dip per trade to 6.</description>
+      <content>&lt;h1 id=&#34;competitions&#34;&gt;Competitions&lt;/h1&gt;
+&lt;h2 id=&#34;1-nibc-global-investment-banking-competition&#34;&gt;1. &lt;strong&gt;NIBC Global Investment Banking Competition&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Conducting Comparable Company Analysis, Precedent Transaction Analysis, Discounted Cash Flow (DCF) Valuation, and Leveraged Buyout (LBO) Modeling for Bumble (BMBL)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;2-inter-iit-tech-meet-120--trading-strategies&#34;&gt;2. &lt;strong&gt;Inter-IIT Tech Meet 12.0 | Trading Strategies&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Implemented trading strategies using technical indicators like RSI, RVI, MACD, WBS, Supertrend&lt;/li&gt;
+&lt;li&gt;Developed backtesting frameworks from scratch on Python &amp;amp; using standard libraries such as BackTrader&lt;/li&gt;
+&lt;li&gt;Implemented advanced exit strategies, including trailing stops, ATR-based stop losses, and take profit measures&lt;/li&gt;
+&lt;li&gt;Achieved 18X buy and hold returns on a 4 year period, while limiting average dip per trade to 6.3%&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;3-ieee-iros-humanoid-robot-wrestling-simulation-competition-2023&#34;&gt;3. &lt;strong&gt;IEEE IROS Humanoid Robot Wrestling Simulation Competition 2023&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Achieved 2nd position worldwide in the wrestling simulator competition organised during IEEE IROS 2023 conference&lt;/li&gt;
+&lt;li&gt;Simulated a calibrated NAO Robot and implemented a strategy for wrestling matches against other international teams&lt;/li&gt;
+&lt;li&gt;Used a YOLOv5 model along with image processing for recognizing the position and depth of the opponent robot&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;projects&#34;&gt;Projects&lt;/h1&gt;
+&lt;h2 id=&#34;1-intelli-invest--snt-council&#34;&gt;1. &lt;strong&gt;Intelli Invest | SnT Council&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Mentored 20+ freshmen on investment principles, including value and growth investing, as well as portfolio optimization&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;2-financial-networks-under-prof-anindya--iim-a&#34;&gt;2. &lt;strong&gt;Financial Networks under Prof. Anindya | IIM-A&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;To analyze networks in financial markets and their dynamics using statistical methods, and validate the findings&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;3-soccer-simulation--prof-soumya-ranjan-sahoo&#34;&gt;3. &lt;strong&gt;Soccer Simulation | Prof. Soumya Ranjan Sahoo&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Developed RL agents using PPO and A3C in C++ for a two-team game, implemented rcssclients for server-client communication, coordinated player movements, and built a logfile protocol to analyze game dynamics&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;4-applications-of-machine-learning--course-project--prof-purshottam-kar&#34;&gt;4. &lt;strong&gt;Applications of Machine Learning | Course Project | Prof. Purshottam Kar&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Developed linear ML models to analyze Cross-Connection PUFs, implemented decision tree learning for a word-guessing game, evaluated linear classifiers and derived model validity&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;technical-skills&#34;&gt;Technical Skills&lt;/h1&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Category&lt;/th&gt;
+&lt;th&gt;Technologies&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Languages&lt;/td&gt;
+&lt;td&gt;C, C++, Python, Java, Javascript, R&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Libraries&lt;/td&gt;
+&lt;td&gt;Numpy, Pandas, ScikitLearn, Matplotlib, TensorFlow, PyTorch&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Utilities&lt;/td&gt;
+&lt;td&gt;Git, Github, SQL, MongoDB, Shell, Linux, React&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
